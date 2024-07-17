@@ -1,0 +1,21 @@
+/* sa mismong slider to */
+.slick-next,.slick-prev{
+    z-index: 2;
+}
+.slick-next{
+    right: 25px;
+  
+   
+}
+.slick-prev{
+    left: 25px;
+ 
+   
+}
+
+
+.slick-slider{
+
+border-style: solid;
+}
+
